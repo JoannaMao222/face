@@ -1,0 +1,2 @@
+conda create -n face python=3.6
+pip install opencv-python==3.4.9.31
